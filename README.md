@@ -6,6 +6,17 @@
 > 이 저장소에는 **IPS 패치 파일만** 있습니다. 게임 ROM은 포함하지 않으며 배포하지 않습니다.
 > 원본 ROM은 직접 준비해 주세요.
 
+## 스크린샷
+
+| | |
+|---|---|
+| ![타이틀](screenshots/01_title.png) | ![게임 설정](screenshots/02_setup.png) |
+| 타이틀 로고 | 게임 설정 화면 |
+| ![지도 메시지](screenshots/03_map_message.png) | ![명령 메뉴](screenshots/04_command_menu.png) |
+| 지도 화면 메시지 | 내정 명령 메뉴 |
+| ![무장 상태](screenshots/05_officer_status.png) | ![전투](screenshots/06_battle.png) |
+| 무장 상태 화면 | 전투 메시지 |
+
 ## 적용 방법
 
 1. 원본 ROM을 준비합니다. 아래 확인값과 같아야 합니다.
