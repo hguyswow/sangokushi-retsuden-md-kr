@@ -43,4 +43,14 @@
 - 한글화: hguyswow@gmail.com
 - 한글 서체: [Neo둥근모](https://github.com/neodgm/neodgm), 타이틀 로고 [검은고딕(Black Han Sans)](https://github.com/zesstype/Black-Han-Sans) — 모두 SIL Open Font License
 
+## 후원 ☕
+
+이 한글 패치는 무료로 배포됩니다. 재미있게 즐기셨다면 커피 한 잔 값이라도 후원해 주세요.
+보내주신 후원은 더 좋은 게임 한글화와 프로그램을 만들어 배포하는 데 큰 힘이 됩니다. 감사합니다!
+
+- 국민은행 `027210862460` (예금주: 강*호)
+- PayPal: `hguyswow`
+
+---
+
 이 패치는 비공식 팬 번역이며 세가 및 원 저작권자와 관련이 없습니다.
